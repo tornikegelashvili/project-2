@@ -1,1 +1,41 @@
+.sectia{
+    background-color: blue;
+}
+ul{font: size 20px;;
+    margin: 20px;
+	padding: 10px;
+	list-style: none;
+}
+li{
+    margin-right: 10px;
+    display:inline-block;
+    margin: 10px;
+	padding: 10px;
+    width: 100px;
+    
+}
+.logo{
+    width: 100px;
+	vertical-align: middle;
+    margin-right: 350px;
+    margin-left: 150px;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+}
+.photo{
+    width: 600px;
+    vertical-align: middle;
+    margin-left: 430px;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    padding-right: 50px;
+}
+.pic{
+    width: 800px;
+    vertical-align: middle;
 
+   
+}

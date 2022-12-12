@@ -1,41 +1,70 @@
 .sectia{
     background-color: blue;
 }
-ul{font: size 20px;;
+ul{
+    font: size 20px;;
     margin: 20px;
 	padding: 10px;
 	list-style: none;
 }
-li{
+li a {
+    color: aliceblue;
+    text-decoration-line: none;
+}
+li {
     margin-right: 10px;
     display:inline-block;
     margin: 10px;
 	padding: 10px;
     width: 100px;
-    
 }
+
 .logo{
     width: 100px;
 	vertical-align: middle;
-    margin-right: 350px;
-    margin-left: 150px;
+    margin-right: 100px;
+    margin-left: 450px;
 }
 .navigation {
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 50px;
 }
+.picture{
+    display: inline-block;
+}
 .photo{
     width: 600px;
     vertical-align: middle;
-    margin-left: 430px;
-    margin-top: 200px;
-    margin-bottom: 150px;
-    padding-right: 50px;
+    margin-left: 450px;
+    padding-right: 30px;
 }
 .pic{
     width: 800px;
     vertical-align: middle;
-
-   
 }
+.contact{
+    background-color: aliceblue; 
+    padding: 10px;
+    border-radius: 10px;
+}
+li .contact{
+    text-decoration: black;
+}
+.point{
+    display: inline-block;
+    margin-left: 450px;
+    
+
+}
+.arrow{
+    display: inline-block;
+    padding-left: 450px;
+}
+.arrow img{
+    padding: 5px;
+}
+.picture,arrow{
+    margin-top: 10px;
+}
+
